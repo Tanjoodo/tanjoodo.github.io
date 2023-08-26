@@ -30,7 +30,8 @@ twitter_username: N/A
 github_username:  tanjoodo
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-feed
 
